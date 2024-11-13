@@ -13,6 +13,13 @@
    width="50px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
+<img
+   align="left"
+   alt="r"
+   title="r"
+   width="50px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 
  <img
    align="left"
