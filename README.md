@@ -5,6 +5,12 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Enfermeira e Mestre em Ciências da Saúde com ênfase em Cardiologia - Universidade Federal de São Paulo.
 
+## Artigos Publicados:
+
+[Atherosclerosis severity in patients with familial hypercholesterolemia: The role of T and B lymphocytes](https://www.sciencedirect.com/science/article/pii/S2667089522000074?via=ihub)
+
+[Phytosterol consumption and markers of subclinical atherosclerosis: Cross-sectional results from ELSA-Brasil](https://www.nmcd-journal.com/article/S0939-4753%2821%2900124-1/abstract)
+
 
  <img
    align="left"
