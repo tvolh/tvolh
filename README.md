@@ -26,14 +26,6 @@
    width="50px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-
- <img
-   align="left"
-   alt="linux"
-   title="linux"
-   width="50px"
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
           
   <img
    align="left"
@@ -43,6 +35,30 @@
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
+  <img
+   align="left"
+   alt="mat"
+   title="mat"
+   width="50px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+
+  <img
+   align="left"
+   alt="pandas"
+   title="pandas"
+   width="50px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+
+   <img
+   align="left"
+   alt="linux"
+   title="linux"
+   width="50px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+   
    <img
    align="left"
    alt="aws"
@@ -51,3 +67,5 @@
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   
+
+         
