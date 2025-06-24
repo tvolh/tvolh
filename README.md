@@ -34,10 +34,6 @@
    width="50px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-
-
-
-🌱 **Atualmente aprendendo:**  
  
   <img
    align="left"
@@ -46,22 +42,6 @@
    width="50px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-  <img
-   align="left"
-   alt="mat"
-   title="mat"
-   width="50px"
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-
-  <img
-   align="left"
-   alt="pandas"
-   title="pandas"
-   width="50px"
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 
    <img
    align="left"
