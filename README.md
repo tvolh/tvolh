@@ -1,9 +1,16 @@
 ## Olá! 👋
 
-- 🔭 Estagiária em Infra Cloud
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas - Centro Universitário das Américas - FAM - 4/5
-- 😄 Pronouns: ela/dela
-- ⚡ Enfermeira e Mestre em Ciências da Saúde com ênfase em Cardiologia - Universidade Federal de São Paulo.
+### 📍 Enfermeira | Mestrado em Ciências da Saúde | Análise de Dados | Cloud | Infraestrutura
+
+💻 **Formação Técnica:**  
+- Tecnóloga em Análise e Desenvolvimento de Sistemas - Centro Universitário das Américas - FAM  
+- Mestrado em Ciências da Saúde com enfase em Cardiologia  (com foco em análise de dados epidemiológicos do Estudo Longitudinal de Saúde dp Adulto)  - Universidade Federal de São Paulo
+- Graduada em Enfermagem - Universidade Nove de Julho
+
+☁️ **Experiência em Cloud/Infraestrutura:**  
+- Estágio em Infraestrutura e Cloud (AWS, Azure, Zabbix) - ICTS - Ago 2024 / Jul 2025
+
+
 
 ## Artigos Publicados:
 
