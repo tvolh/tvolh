@@ -10,6 +10,8 @@
 ☁️ **Experiência em Cloud/Infraestrutura:**  
 - Estágio em Infraestrutura e Cloud (AWS, Azure, Zabbix) - ICTS - Ago 2024 / Jul 2025
 
+  📊 **Análise de Dados em Saúde - Estudo Longitudinal de Saúde do Adulto - ELSA-BRASIL:**  
+- Experiência com IBM SPSS, SQL, Power BI e R para análise de bases como o ELSA-Brasil.
 
 
 ## Artigos Publicados:
@@ -17,8 +19,7 @@
 [Atherosclerosis severity in patients with familial hypercholesterolemia: The role of T and B lymphocytes](https://www.sciencedirect.com/science/article/pii/S2667089522000074?via=ihub)
 
 [Phytosterol consumption and markers of subclinical atherosclerosis: Cross-sectional results from ELSA-Brasil](https://www.nmcd-journal.com/article/S0939-4753%2821%2900124-1/abstract)
-
-
+ 
  <img
    align="left"
    alt="SPSS"
@@ -33,7 +34,9 @@
    width="50px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-          
+
+🌱 **Atualmente aprendendo:**  
+ 
   <img
    align="left"
    alt="python"
